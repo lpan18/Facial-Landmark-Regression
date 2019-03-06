@@ -2,3 +2,5 @@
 lfw/
 lfw.tgz
 .nfs*
+*.txt
+*.pth
